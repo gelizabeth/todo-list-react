@@ -27,16 +27,6 @@ body {
   box-sizing: border-box;
 }
 
-@media (max-width: 991.98px) {
-  body {
-    display: block;
-    width: 80%;
-    margin: 5% auto;
-  }
-  .container {
-    max-width: 100%;
-  }
-}
 .heading {
   display: flex;
   align-items: center;
